@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nama": "Homestay Ratu Pantai",
+    "fotoUrl": "https://drive.google.com/uc?id=1Z16fbOIpI9H_JglsSJ1V8MNG6UloURlM",
+    "harga": 350,
+    "lat": -7.1845203,
+    "lng": 106.4607994
+  },
+  {
+    "id": 2,
+    "nama": "Homestay Makmun",
+    "fotoUrl": "https://drive.google.com/uc?id=1hFanbiM9wqmDgVOyvC_urGm1ViRG7ye3",
+    "harga": 325,
+    "lat": -7.1838093, 
+    "lng": 106.4691124
+  },
+  {
+    "id": 3,
+    "nama": "Homestay Enas Jeky",
+    "fotoUrl": "https://drive.google.com/uc?id=1AJBLK_DZdogy-vBhJn6ShqpgPm-T2q_7",
+    "harga": 430,
+    "lat": -7.1757006,
+    "lng": 106.469755
+  },
+  {
+    "id": 4,
+    "nama": "Homestay Tenjo Gunung",
+    "fotoUrl": "https://drive.google.com/uc?id=16_OjBN0numb8PikRV7Oga74M0ZStQW3c",
+    "harga": 315,
+    "lat": -7.1800614,
+    "lng": 106.4670294
+  },
+  {
+    "id": 5,
+    "nama": "Homestay Nanasuryana Guid",
+    "fotoUrl": "https://drive.google.com/uc?id=1FmBA0IQHCXKRlFCwz-3Fna15l-d3cuIt",
+    "harga": 435,
+    "lat": -7.1824029,
+    "lng": 106.4672885
+  },
+  {
+    "id": 6,
+    "nama": "Homestay Hisyam Alghani",
+    "fotoUrl": "https://drive.google.com/uc?id=1m3_23FItKDAIvWGU94BnzJHInLgZpLld",
+    "harga": 390,
+    "lat": -7.1794971,
+    "lng": 106.4683363
+  }
+]
